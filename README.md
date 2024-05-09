@@ -6,6 +6,9 @@
 Sistema de Estoque é uma aplicação full stack web construída durante o curso da **COUDE**.
 
 A aplicação consiste em um sistema, utilizando o framework Bootstrap para a interface do usuário, e fazendo uso de JavaScript, jQuery, AJAX e MySQL para funcionalidades dinâmicas e armazenamento de dados. Abrangendo a gestão de usuários, produtos, categorias, entrega de estoque (entrada/saída), que são relacionados aos clientes e fornecedores e suas permissões, que também apresenta um dashboard com gráficos baseados nestes dados.
+## Objetivo
+
+O objetivo desse sistema de gerenciamento de estoque é proporcionar uma plataforma para empresas controlarem seus estoques de forma eficiente e organizada. 
 
 ## Layout web
 
