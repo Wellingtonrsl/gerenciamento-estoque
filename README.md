@@ -23,7 +23,7 @@ O objetivo desse sistema de gerenciamento de estoque é proporcionar uma platafo
 ![Web 5](https://github.com/Wellingtonrsl/gerenciamento-estoque/assets/144285060/cf78a45a-68e5-4534-a85d-9b69e131e655)
 
 
-## Modelo conceitual
+## Modelagem do Banco de Dados
 
 ![Web 001](https://github.com/Wellingtonrsl/gerenciamento-estoque/assets/144285060/6e262487-9aa0-41d4-86aa-f5d90ab502a1)
 
